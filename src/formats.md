@@ -53,7 +53,7 @@ Weather conditions are indicated by an integer value between 1 and 27 according 
 | **Code** | **Weather Condition** |
 | :------- | :-------------------- |
 | 1        | Clear                 |
-| 2        | Fair                  |
+| 2        | g                 |
 | 3        | Cloudy                |
 | 4        | Overcast              |
 | 5        | Fog                   |
